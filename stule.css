@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: url"british-tea.jpg";
+    background-image: url"british-tea.jpg";
 }
 .card{
     width: 400px;
