@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: url(ing/british-tea.jpg);
+    background: url"british-tea.jpg";
 }
 .card{
     width: 400px;
@@ -16,7 +16,7 @@ body {
    width: 200px;
    height: 200px;
    margin: 0 auto;
-   border-radius: 50%;    
+   border-radius: 50%;
 }
 .card-title{
     color: aliceblue;
