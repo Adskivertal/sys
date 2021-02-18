@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    background: url(ing/british-tea.jpg);
+}
+.card{
+    width: 400px;
+    height: 750px;
+    margin: 25px auto;
+    background-color: #000000;
+    box-shadow: 0 10px 20px #000000;
+    padding: 10px;
+    border-radius: 20px;
+}
+.sys{
+   display: block;
+   width: 200px;
+   height: 200px;
+   margin: 0 auto;
+   border-radius: 50%;    
+}
+.card-title{
+    color: aliceblue;
+   text-align: center;
+}
+.text{
+    font-size: 15px;
+    color:aliceblue;
+}
+.info{
+    background-color: #000000;
+    color: aliceblue;
+    font-size: 13px;
+}
+.sosi{
+    color: aliceblue;
+    text-align: right;
+}
