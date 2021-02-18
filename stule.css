@@ -1,7 +1,9 @@
 body {
     margin: 0;
-    background-image: url"british-tea.jpg";
+    background-image: url(british-tea.jpg);
+    font-family: 'Benne', serif;
 }
+
 .card{
     width: 400px;
     height: 750px;
@@ -21,7 +23,9 @@ body {
 .card-title{
     color: aliceblue;
    text-align: center;
+
 }
+
 .text{
     font-size: 15px;
     color:aliceblue;
@@ -29,7 +33,7 @@ body {
 .info{
     background-color: #000000;
     color: aliceblue;
-    font-size: 13px;
+    font-size: 15px;
 }
 .sosi{
     color: aliceblue;
