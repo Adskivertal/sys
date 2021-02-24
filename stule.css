@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-image: url(british-tea.jpg);
+    background: url(british-tea.jpg) center no-repeat;
     font-family: 'Benne', serif;
 }
 
